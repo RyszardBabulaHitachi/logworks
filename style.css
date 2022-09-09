@@ -1,0 +1,13 @@
+.center
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+span
+{
+    display: table;
+    margin: 0 auto;
+    color: red;
+}
